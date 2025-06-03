@@ -1,4 +1,4 @@
-# Defer Library (v1.0)
+# Deferly
 
 [![Build Status](https://github.com/ugurelveren/Deferly/actions/workflows/build.yml/badge.svg)](https://github.com/ugurelveren/Deferly/actions/workflows/build.yml)
 
