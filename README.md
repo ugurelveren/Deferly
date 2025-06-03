@@ -1,5 +1,8 @@
 # Defer Library (v1.0)
 
+[![Build Status](https://github.com/ugurelveren/Deferly/actions/workflows/build.yml/badge.svg)](https://github.com/ugurelveren/Deferly/actions/workflows/build.yml)
+
+
 A simple C# library providing a `DeferContext` for registering deferred actions that execute in Last-In-First-Out (LIFO) order when the context is disposed. Inspired by Go's `defer`, this library helps ensure cleanup code runs predictably at the end of a scope.
 
 ---
