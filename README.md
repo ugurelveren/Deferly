@@ -80,10 +80,10 @@ public void AnotherMethod()
 
 This project includes xUnit tests covering core behaviors of `DeferContext` and the `Defer` helper.
 
-1. Navigate to the `tests/Deferly.Tests` folder.  
+1. Navigate to the `tests/Deferly.Tests` folder.
 2. Run `dotnet test`:
    ```bash
-   cd tests/Defer.Tests
+   cd tests/Deferly.Tests
    dotnet test
    ```
 ---
